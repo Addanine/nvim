@@ -20,7 +20,7 @@ return {
             [[      █▀█ █▄█ █▀▄ █▄█ █▀▄ ██▄      ]],
             [[                                     ]],
             [[   ╔════════════════════════════╗   ]],
-            [[   ║    Welcome back, Rose!!    ║   ]],
+            [[   ║     Welcome, Michael.      ║   ]],
             [[   ╚════════════════════════════╝   ]],
             [[                                     ]],
           },
@@ -89,7 +89,7 @@ return {
               "   Shell: zsh 5.9",
               "   Terminal: iTerm2",
               "",
-              "󰀨  Rose's Neovim v0.10.1"
+              "󰀨  Harry's Neovim v0.10.1"
             }
             
             return content
